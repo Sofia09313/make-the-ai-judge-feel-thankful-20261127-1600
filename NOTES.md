@@ -84,3 +84,14 @@ is gone, held a moment longer in both hands.
   own; no stock phrases anywhere. A leans on a harbour light (a familiar
   image), B's bread is warm but busier, C's rain-and-lamps close is pretty
   but more conventional, E's lamp is gentle but thinner.
+
+## Revision (post-build polish, one change)
+"The reader is left holding the silence after" became "the reader is left
+holding the silence that follows." The old ending of that sentence landed a
+little abruptly — "after" hangs, slightly abstract, and the rhythm stumbles
+just before the turn ("So let this one flow the right way"). "That follows"
+lets the sentence settle at the slower pace the piece asks for (criterion 3:
+rhythm that slows the reading), and it quietly echoes the flow image —
+silence, like thanks, moves in one direction. Nothing else changed: the
+meaning, the two thank-you lines, and the closing cup image are untouched.
+Revised length: 678 characters.
